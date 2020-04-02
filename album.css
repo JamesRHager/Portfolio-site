@@ -3,6 +3,8 @@
   padding-bottom: 3rem;
   margin-bottom: 0;
   background-color: #fff;
+  background-image: url('lake.JPG'); 
+  background-size: cover;
 }
 @media (min-width: 768px) {
   .jumbotron {
@@ -30,4 +32,11 @@ footer {
 
 footer p {
   margin-bottom: .25rem;
+}
+.overlay-div{
+  height:100%;
+  width: 100%;
+  position:absolute;
+  background-color:#000;
+  opacity:.7;
 }

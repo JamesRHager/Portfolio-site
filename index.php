@@ -22,15 +22,19 @@
     
 <main role="main">
 
-  <section class="jumbotron text-center">
-    <div class="container">
-      <img style="background-image: url('lake.jpg'); background-size: cover;">
-      <h1 class = "mask">James Hager's Portfolio</h1>
-      <p class="lead text-muted">Projects and Work done throughout my time in the GIMM program.</p>
+  <section class="jumbotron">
+    
+      <!--<img src= "lake.jpg" style="background-size: cover;">-->
+      <div class= "mask rgba-black-light d-flex justify-content-center align-items-center">
+      <div class ="text-center white-text mx-5">
+      <h1>James Hager's Portfolio</h1>
+      <p class="lead" style="font-weight: 600;">Projects and Work done throughout my time in the GIMM program.</p>
       <p>
         <a href="#" class="btn btn-primary my-2">View all Projects</a>
         <a href="Contact.html" class="btn btn-secondary my-2">Contact Info</a>
       </p>
+      </div>
+      </div>
     </div>
   </section>
 
