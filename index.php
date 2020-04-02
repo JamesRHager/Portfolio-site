@@ -30,8 +30,8 @@
       <h1>James Hager's Portfolio</h1>
       <p class="lead" style="font-weight: 600;">Projects and Work done throughout my time in the GIMM program.</p>
       <p>
-        <a href="#" class="btn btn-primary my-2">View all Projects</a>
-        <a href="Contact.html" class="btn btn-secondary my-2">Contact Info</a>
+        <a href="#projects" class="btn btn-primary my-2">View all Projects</a>
+        <a href="Contact.php" class="btn btn-secondary my-2">Contact Info</a>
       </p>
       </div>
       </div>
@@ -39,7 +39,7 @@
   </section>
 
   <div class="album py-5 bg-light">
-    <div class="container">
+    <div id="projects" class="container">
 
       <div class="row">
         <div class="col-md-4">
