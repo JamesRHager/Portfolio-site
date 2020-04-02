@@ -24,7 +24,8 @@
 
   <section class="jumbotron text-center">
     <div class="container">
-      <h1>James Hager's Portfolio</h1>
+      <img style="background-image: url('lake.jpg'); background-size: cover;">
+      <h1 class = "mask">James Hager's Portfolio</h1>
       <p class="lead text-muted">Projects and Work done throughout my time in the GIMM program.</p>
       <p>
         <a href="#" class="btn btn-primary my-2">View all Projects</a>
@@ -45,7 +46,7 @@
               <p class="card-text">First group coding project done within GIMM 110. Created a scrolling turn based game from scratch in Adobe Animate. Later, I created a trailer for this game in GIMM 270.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group align-items-center">
-                  <a href="Tomb of Azothin.html" class="btn btn-sm btn-outline-secondary" role="button">View Project Page</a>
+                  <a href="Tomb of Azothin.php" class="btn btn-sm btn-outline-secondary" role="button">View Project Page</a>
                 </div>
               </div>
             </div>
@@ -59,7 +60,7 @@
               <p class="card-text">First VR project that utilized Unity and 360 video.  Created a thriller scenario with an interactive element to show 2 different sides of the story.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="360 Video Project.html" class="btn btn-sm btn-outline-secondary" role="button">View Project Page</a>
+                  <a href="360 Video Project.php" class="btn btn-sm btn-outline-secondary" role="button">View Project Page</a>
                 </div>
               </div>
             </div>
@@ -73,7 +74,7 @@
               <p class="card-text">App designed to help someone learn some essentials regarding STEM concepts.  Perfect for people that don't know anything about STEM and just want to learn a little more or be refreshed on concepts.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <a href="STEMApp.html" class="btn btn-sm btn-outline-secondary" role="button">View Project Page</a>
+                  <a href="STEMApp.php" class="btn btn-sm btn-outline-secondary" role="button">View Project Page</a>
                 </div>       
               </div>
             </div>
