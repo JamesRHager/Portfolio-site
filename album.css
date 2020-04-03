@@ -7,16 +7,7 @@
   background-size: cover;
 }
 
-.jumbotronTOZ {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  margin-bottom: 0;
-  background-color: #000;
-  background-image: url('TOZ.PNG'); 
-  background-size: cover;
-  height: 100%;
-  width 100%;
-}
+
 
 @media (min-width: 768px) {
   .jumbotron {

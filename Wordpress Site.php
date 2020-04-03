@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v3.8.6">
-    <title>360 Video Project</title>
+    <title>WordPress Site</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/album/">
 
@@ -43,16 +43,14 @@
       <div class="row">
        
       <div class="col-md-7 mb-4">
-          <img src="360Vid.PNG" width="560" height="315">
+          <img src="Wordpress.PNG" width="560" height="315">
           </div>
           <div class="col-md-5 md-4 justify-content-right">
           
-              <h3>Interactive 360 Video Project</h3>
-              <p>We created a 360 Interactive Video Project with Unity in GIMM 280.  The interactivity puts you in full control of the thriller we have created.  Choose your side to experience with the lights on, or lights off.</p>
+              <h3>Wordpress Website</h3>
+              <p>I created and built out the functionality of a Wordpress website.  I set up an Amazon EC2 server and installed WordPress on it.  It has some content to show you how it could feel.  This website is just an example of functionality that is available or could be improved.</p>
              <br>
-             <p><b>Headset Version: Coming soon!</b></p>
-             <br>
-             <p><b>Mouse Control Version: Coming soon!</b></p>
+             <p><a href="/">View the Website here!</a></p>
             </div>
           </div>
         </div>

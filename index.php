@@ -55,10 +55,10 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img class="card-img-top" src="TOZ_thumb.PNG">
+            <img class="card-img-top" src="360Vid.PNG">
             <div class="card-body">
               <h5 class="card-title">360 Video Project</h5>
-              <p class="card-text">First VR project that utilized Unity and 360 video.  Created a thriller scenario with an interactive element to show 2 different sides of the story.</p>
+              <p class="card-text">First VR project that utilized Unity and 360 video.  Created a thriller scenario in GIMM 270 with an interactive element to show 2 different sides of the story.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <a href="360 Video Project.php" class="btn btn-sm btn-outline-secondary" role="button">View Project Page</a>
@@ -69,7 +69,21 @@
         </div>
         <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
-            <img class="card-img-top" src="TOZ_thumb.PNG">
+            <img class="card-img-top" src="Wordpress.PNG">
+            <div class="card-body">
+              <h5 class="card-title">WordPress Website</h5>
+              <p class="card-text">Created and deployed a fully functional WordPress Website.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <a href="Wordpress Site.php" class="btn btn-sm btn-outline-secondary" role="button">View Project Page</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card mb-4 shadow-sm">
+            <img class="card-img-top" src="">
             <div class="card-body">
               <h5 class="card-title">STEM Essentials App</h5>
               <p class="card-text">App designed to help someone learn some essentials regarding STEM concepts.  Perfect for people that don't know anything about STEM and just want to learn a little more or be refreshed on concepts.</p>
