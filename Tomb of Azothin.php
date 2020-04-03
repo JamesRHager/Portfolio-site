@@ -24,36 +24,38 @@
 
 <main role="main">
 
-  <section class="jumbotron text-center">
-    <div class="container">
-      <h1>Tomb of Azothin</h1>
-      <p class="lead text-muted">Side scroller controllable game with enemies and battles.</p>
+<section class="jumbotron">
+    
+    <!--<img src= "lake.jpg" style="background-size: cover;">-->
+    <div class= "mask rgba-black-light d-flex justify-content-center align-items-center">
+    <div class ="text-center white-text mx-5">
+    <h1>James Hager's Portfolio</h1>
+    <p class="lead" style="font-weight: 600;">Projects and Work done throughout my time in the GIMM program.</p>
+    <?php require_once('buttons.php');?>
     </div>
-  </section>
+    </div>
+  </div>
+</section>
 
-  <div class="album py-5 bg-light">
+  
     <div class="container">
-
+    <section class = "mt-5 wow">
       <div class="row">
-        <div class="col-md-4">
-          <div class="card mb-4 shadow-sm">
-            <img class ="card-img-top" src= "TOZ_thumb.PNG">
-            <div class="card-body">
-              <h5 class="card-title">Tomb of Azothin</h5>
-              <p class="card-text">First group coding project done within GIMM 110. Created a scrolling turn based game from scratch in Adobe Animate. Later, I created a trailer for this game in GIMM 270.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group align-items-center">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View Project Page</button>
-                </div>
-              </div>
+       
+        <div class="col-md-6 mb-4">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/x98jqqYv_Pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+        <div class="col-md-6 md-4">
+          
+              <h3>Tomb of Azothin</h3>
+              <p>First group coding project done within GIMM 110. Created a scrolling turn based game from scratch in Adobe Animate. Later, I created a trailer for this game in GIMM 270.</p>
+             
             </div>
           </div>
         </div>
         
         
-      </div>
-    </div>
-  </div>
+     
 
 </main>
 

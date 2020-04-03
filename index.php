@@ -29,10 +29,7 @@
       <div class ="text-center white-text mx-5">
       <h1>James Hager's Portfolio</h1>
       <p class="lead" style="font-weight: 600;">Projects and Work done throughout my time in the GIMM program.</p>
-      <p>
-        <a href="#projects" class="btn btn-primary my-2">View all Projects</a>
-        <a href="Contact.php" class="btn btn-secondary my-2">Contact Info</a>
-      </p>
+      <?php require_once('buttons.php');?>
       </div>
       </div>
     </div>

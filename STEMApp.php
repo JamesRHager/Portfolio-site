@@ -27,10 +27,7 @@
     <div class="container">
       <h1>James Hager's Portfolio</h1>
       <p class="lead text-muted">Projects and Work done throughout my time in the GIMM program.</p>
-      <p>
-        <a href="#" class="btn btn-primary my-2">View all Projects</a>
-        <a href="#" class="btn btn-secondary my-2">Contact Info</a>
-      </p>
+      <?php require_once('buttons.php');?>
     </div>
   </section>
 
