@@ -23,63 +23,40 @@
 
 <main role="main">
 
-  <section class="jumbotron text-center">
-    <div class="container">
-      <h1>James Hager's Portfolio</h1>
-      <p class="lead text-muted">Projects and Work done throughout my time in the GIMM program.</p>
-      <?php require_once('buttons.php');?>
+<section class="jumbotron">
+    
+    <!--<img src= "lake.jpg" style="background-size: cover;">-->
+    <div class= "mask rgba-black-light d-flex justify-content-center align-items-center">
+    <div class ="text-center white-text mx-5">
+    <h1>James Hager's Portfolio</h1>
+    <p class="lead" style="font-weight: 600;">Projects and Work done throughout my time in the GIMM program.</p>
+    <?php require_once('buttons.php');?>
     </div>
-  </section>
-
-  <div class="album py-5 bg-light">
-    <div class="container">
-
-      <div class="row">
-        <div class="col-md-4">
-          <div class="card mb-4 shadow-sm">
-            <img class ="card-img-top" src= "TOZ_thumb.PNG">
-            <div class="card-body">
-              <h5 class="card-title">Tomb of Azothin</h5>
-              <p class="card-text">First group coding project done within GIMM 110. Created a scrolling turn based game from scratch in Adobe Animate. Later, I created a trailer for this game in GIMM 270.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group align-items-center">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View Project Page</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card mb-4 shadow-sm">
-            <img class="card-img-top" src="TOZ_thumb.PNG">
-            <div class="card-body">
-              <h5 class="card-title">360 Video Project</h5>
-              <p class="card-text">First VR project that utilized Unity and 360 video.  Created a thriller scenario with an interactive element to show 2 different sides of the story.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View Project Page</button>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="card mb-4 shadow-sm">
-            <img class="card-img-top" src="TOZ_thumb.PNG">
-            <div class="card-body">
-              <h5 class="card-title">STEM Essentials App</h5>
-              <p class="card-text">App designed to help someone learn some essentials regarding STEM concepts.  Perfect for people that don't know anything about STEM and just want to learn a little more or be refreshed on concepts.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View Project Page</button>
-                </div>       
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
+</section>
+
+  
+<div class="album py-5 bg-light">
+      
+      <section class = "mt-5 wow container">
+      <div class="row">
+       
+      <div class="col-md-7 mb-4">
+          <h2>Coming Soon!</h2>
+      </div>
+      <div class="col-md-5 md-4 justify-content-right">
+          
+              <h3>STEM Essentials App</h3>
+              <p>The main idea behind this app is if there was anyone that needed a refresher or to learn some valuable concepts, we can provide that to them.  Our goal is to teach meaningful and useful lessons to our users, something that could impact and you can use in your everyday life.</p>
+             <br>
+             <h4><b> Currently being developed, launch date May 2020.</b></h4>
+            </div>
+          </div>
+        </div>
+        
+        
+     
 
 </main>
 

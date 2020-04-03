@@ -1,4 +1,4 @@
 <p>
-      <a href="Portfolio-site/projects" class="btn btn-primary my-2">View all Projects</a>
-      <a href="#navbarHeader" class="btn btn-secondary my-2">Contact Info</a>
+      <a href="/Portfolio-site/#projects" class="btn btn-primary my-2">View all Projects</a>
+      <a href="#Contact-Info" class="btn btn-secondary my-2" data-toggle="collapse" data-target="#navbarHeader">Contact Info</a>
     </p>

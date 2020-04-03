@@ -34,22 +34,24 @@
     <?php require_once('buttons.php');?>
     </div>
     </div>
-  </div>
+  
 </section>
 
   
-    <div class="container">
-    <section class = "mt-5 wow">
+    <div class="album py-5 bg-light">
+      
+    <section class = "mt-5 wow container">
       <div class="row">
        
-        <div class="col-md-6 mb-4">
+        <div class="col-md-7 mb-4">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/x98jqqYv_Pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-        <div class="col-md-6 md-4">
+        <div class="col-md-5 md-4 justify-content-right">
           
               <h3>Tomb of Azothin</h3>
-              <p>First group coding project done within GIMM 110. Created a scrolling turn based game from scratch in Adobe Animate. Later, I created a trailer for this game in GIMM 270.</p>
-             
+              <p>First group coding project done within GIMM 110. Created a scrolling turn based game from scratch in Adobe Animate. Later, I created a trailer for this game in GIMM 270.  A lot of concepts were used in making this game such as classes, State Machines, and enheritance.  We only had about 4 weeks to create all assets and code to make a playable prototype.</p>
+             <br>
+             <p>Playable link coming soon!</p>
             </div>
           </div>
         </div>
