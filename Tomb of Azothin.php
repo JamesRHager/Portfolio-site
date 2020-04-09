@@ -25,17 +25,9 @@
 <main role="main">
 
 <section class="jumbotron">
-    
-    <!--<img src= "lake.jpg" style="background-size: cover;">-->
-    <div class= "mask rgba-black-light d-flex justify-content-center align-items-center">
-    <div class ="text-center white-text mx-5">
-    <h1>James Hager's Portfolio</h1>
-    <p class="lead" style="font-weight: 600;">Projects and Work done throughout my time in the GIMM program.</p>
-    <?php require_once('buttons.php');?>
-    </div>
-    </div>
-  
-</section>
+  <?php require_once('jumbotron.php');?>
+  </section>
+
 
   
     <div class="album py-5 bg-light">
@@ -43,7 +35,7 @@
     <section class = "mt-5 wow container">
       <div class="row">
        
-        <div class="col-md-7 mb-4">
+        <div class="col-md-7 md-4">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/x98jqqYv_Pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
         <div class="col-md-5 md-4 justify-content-right">
