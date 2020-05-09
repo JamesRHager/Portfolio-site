@@ -33,10 +33,11 @@
       <section class = "mt-5 wow container">
       <div class="row">
        
-      <div class="col-md-7 mb-4">
+      <div class="col-md-7 mr-auto">
           <img src="360Vid.PNG" width="560" height="315">
-          </div>
-          <div class="col-md-5 md-4 justify-content-right">
+      </div>
+      
+      <div class="col-md-4 ml-auto">
           
               <h3>Interactive 360 Video Project</h3>
               <p>We created a 360 Interactive Video Project with Unity in GIMM 280.  The interactivity puts you in full control of the thriller we have created.  Choose your side to experience with the lights on, or lights off.</p>

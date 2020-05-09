@@ -35,10 +35,14 @@
     <section class = "mt-5 wow container">
       <div class="row">
        
-        <div class="col-md-7 md-4">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/x98jqqYv_Pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="col-md-7">
+        
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/x98jqqYv_Pc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
       </div>
-        <div class="col-md-5 md-4 justify-content-right">
+      
+      
+        <div class="col-md-4 ml-auto">
           
               <h3>Tomb of Azothin</h3>
               <p>First group coding project done within GIMM 110. Created a scrolling turn based game from scratch in Adobe Animate. Later, I created a trailer for this game in GIMM 270.  A lot of concepts were used in making this game such as classes, State Machines, and enheritance.  We only had about 4 weeks to create all assets and code to make a playable prototype.</p>
@@ -47,6 +51,8 @@
             </div>
           </div>
         </div>
+        
+        </section>
         
         
      
